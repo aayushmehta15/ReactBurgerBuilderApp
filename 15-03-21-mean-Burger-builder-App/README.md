@@ -1,6 +1,6 @@
-#BURGER BUILDER APP
+# BURGER BUILDER APP
 
-##Section Name: Getting Started with basic project
-##Date: 11-03-21
+## Section Name: Getting Started With Redux
+## Date: 22-03-21
 
 
