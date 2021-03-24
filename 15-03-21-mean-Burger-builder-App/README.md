@@ -1,6 +1,6 @@
 #BURGER BUILDER APP
 
-##Section Name: Getting Started with basic project
-##Date: 11-03-21
+##Section Name: Advanced Redux
+##Date: 24-03-21
 
 
