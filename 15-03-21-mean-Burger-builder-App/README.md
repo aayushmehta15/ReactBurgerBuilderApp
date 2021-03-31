@@ -1,6 +1,6 @@
-#BURGER BUILDER APP
+# BURGER BUILDER APP
 
-##Section Name: Getting Started with basic project
-##Date: 11-03-21
+## Section Name: Introduction to React Hooks
+## Date: 31-03-21
 
 
